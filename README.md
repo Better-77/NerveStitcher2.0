@@ -49,7 +49,13 @@ Calculating Of Displacement Differences
 ------
 In **Optical** floder, **calculate.py** can perform difference calculation on the two sets of displacement distances mentioned above, and determine whether the image stitching result is correct based on whether the calculated result is within the confidence interval.
 
+Contact Us
+-----
+For additional questions or discussions, Please contact email:
 
+[liguangxu@tiangong.edu.cn](liguangxu@tiangong.edu.cn)
+
+2130070844@tiangong.edu.cn
 
 
 
