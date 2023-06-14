@@ -11,3 +11,4 @@ Official Website: [TGU-UOW](https://tgu-uow.gitee.io/)
 Usage
 ------
 
+It is recommended that you download the FlowNet 2.0 pre-training model before using it.[FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view)
