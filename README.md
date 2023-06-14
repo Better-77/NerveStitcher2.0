@@ -55,10 +55,12 @@ For additional questions or discussions, Please contact email:
 
 [liguangxu@tiangong.edu.cn](liguangxu@tiangong.edu.cn)
 
-2130070844@tiangong.edu.cn
+[2130070844@tiangong.edu.cn](2130070844@tiangong.edu.cn)
 
-
-
+Copyright
+-----
+Do not use for commercial purposes without permission.
+Copyright (c)  [TGU-UOW](https://tgu-uow.gitee.io/)
 
 
 
