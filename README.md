@@ -16,6 +16,8 @@ It is recommended that you download the FlowNet 2.0 pre-training model before us
 Image Stitching
 -------
 Image size for the stitching section is 384*384 and the files are named in English with a sorted naming convention. NerveStitcher is compatible with **.jpg .png .tiff** format images.
+
+
 Please refer to **stitch_eval.py** Complete feature point extraction and matching of the input image, modify **input_dir**, **input_pairs_path** (the address of the image data to be stitched), **output_viz_dir** (the address where the final result is saved). The displacement of the images **(mean_euclidean_distance)** calculated based on the motion vectors of the matched feature points is saved in a text file, which can be named by modifying in **line 153**. **arrow** function visualises the vector information arrows of matching feature points on the input **img**. 
 
 **stitch_img.py** responsible for completing the stitching of image pairs, modify **input_dir** and **xlsx_dir**(the address of the image data to be stitched). The folder structure is based on the example file **images/stitch_img**, where the **"images/result"** folder holds the results of each stitching.
