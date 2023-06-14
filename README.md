@@ -15,7 +15,7 @@ It is recommended that you download the FlowNet 2.0 pre-training model before us
 
 If you prefer pip, install following versions:
 
-numpy==1.18.2
+numpy==1.18.2<br>
 torch>=0.4.1
 torchvision>=0.2.0
 opencv-python==3.4.2.16
