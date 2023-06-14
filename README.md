@@ -11,7 +11,7 @@ Official Website: [TGU-UOW](https://tgu-uow.gitee.io/)
 Usage
 ------
 
-It is recommended that you download the FlowNet 2.0 pre-training model before using it.[FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view)
+It is recommended that you download the FlowNet 2.0 pre-training model before using it. [FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view)
 
 Image Stitching
 -------
@@ -22,4 +22,17 @@ Please refer to **stitch_eval.py** Complete feature point extraction and matchin
 
 Optical Flow Information Estimation And Visualisation
 -------
+The relevant program for extracting optical flow information is in folder **OpticalFlow**.
+
+**run_a_pair.py** can extract optical flow information from image pairs obtained from consecutive frames, modify **dict** is [FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view). modify **pim1 pim2** refers to the input image pairs that you want to extract optical flow information from, can roughly predict the motion direction of the images based on the extracted optical flow vectors.
+
+
+
+
+
+
+
+
+
+
 
