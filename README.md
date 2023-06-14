@@ -15,6 +15,7 @@ It is recommended that you download the FlowNet 2.0 pre-training model before us
 
 If you prefer pip, install following versions:
 
+```
 numpy==1.18.2\<br>
 torch>=0.4.1<br>
 torchvision>=0.2.0<br>
@@ -23,7 +24,7 @@ xlsxwriter==3.0.3<br>
 imageio==2.15.0<br>
 matplotlib==3.2.2<br>
 pillow==8.4.0<br>
-
+```
 
 Image Stitching
 -------
