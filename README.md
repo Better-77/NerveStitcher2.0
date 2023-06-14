@@ -24,8 +24,9 @@ Optical Flow Information Estimation And Visualisation
 -------
 The relevant program for extracting optical flow information is in folder **OpticalFlow**.
 
-**run_a_pair.py** can extract optical flow information from image pairs obtained from consecutive frames, modify **dict** is [FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view). modify **pim1 pim2** refers to the input image pairs that you want to extract optical flow information from, can roughly predict the motion direction of the images based on the extracted optical flow vectors.
+"run_a_pair.py" can extract optical flow information from image pairs obtained from consecutive frames, and calculate the displacement speed of the images based on the optical flow field, modify **dict** is [FlowNet2.0.CheckPoint.path.tar](https://drive.google.com/file/d/1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da/view), modify **pim1 pim2** refers to the input image pairs that you want to extract optical flow information from, can roughly predict the motion direction of the images based on the extracted optical flow vectors.
 
+If you want to perform the above operations on multiple sets of image pairs, **"run_much.py"** can help you process all the images in a folder. You just need to modify the **"image_folder"** parameter.
 
 
 
