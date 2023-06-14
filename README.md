@@ -6,7 +6,7 @@ NerveStitcher2.0 is an improvement on the NerveStitcher automatic stitching algo
 
 NerveStitcher2.0 was developed by Yu Qiao of TGU-UOW Lab on the basis of FlowNet2.0 and SuperGlue.
 
-Official Website: tgu-uow.gitee.io
+Official Website: [TGU-UOW](https://tgu-uow.gitee.io/)
 
 Usage
 ------
