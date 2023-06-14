@@ -32,7 +32,9 @@ If you want to perform the above operations on multiple sets of image pairs, **"
 
 **"Arrow_pair.py"** can convert the extracted optical flow information into sparse optical flow and represent the motion direction of the images more directly through arrow visualization. You need to modify **pim1** and **pim2** in lines 122 and 123 to the images you want to input. The **stride** parameter in **sparse_flow** represents the step size of the visualization sampling points.
 
-
+Calculating Of Displacement Differences
+------
+In **Optical** floder, **calculate.py** can perform difference calculation on the two sets of displacement distances mentioned above, and determine whether the image stitching result is correct based on whether the calculated result is within the confidence interval.
 
 
 
