@@ -68,6 +68,7 @@ if __name__ == '__main__':
 
         # Calculate the average speed
         final_speed = np.mean(magnitude)
+
         with open('../../FlowNet/flownet/final_speed_zzOS.txt', 'a') as f:
             f.write(str(final_speed) + '\n')
         #print(f"Average speed for flow_{i}.flo: {final_speed}")
