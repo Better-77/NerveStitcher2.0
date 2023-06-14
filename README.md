@@ -59,7 +59,7 @@ For additional questions or discussions, Please contact email:
 
 Copyright
 -----
-Do not use for commercial purposes without permission.
+Do not use for commercial purposes without permission.<bar>
 Copyright (c)  [TGU-UOW](https://tgu-uow.gitee.io/)
 
 
