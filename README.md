@@ -8,6 +8,7 @@ NerveStitcher2.0 was developed by Yu Qiao of TGU-UOW Lab on the basis of [FlowNe
 
 Official Website: [TGU-UOW](https://tgu-uow.gitee.io/)
 
+![]https://github.com/Better-77/NerveStitcher2.0/blob/master/outline.png
 Usage
 ------
 
